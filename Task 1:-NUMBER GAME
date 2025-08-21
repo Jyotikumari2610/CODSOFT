@@ -17,7 +17,7 @@ Random number between 1 to 100 is:98
 //2.Prompt the user to enter their guess for the generated number.
 
 import java.util.*;
-public class RandomNumber{
+public class GuessNumber{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter your guess number:");
@@ -37,7 +37,7 @@ Your Guessed is:45
 
 import java.util.*;
 import java.util.Random;
-public class CompareGR{
+public class NumberGame{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         Random rm=new Random();
@@ -66,7 +66,7 @@ The number was:20
 
 // 4.Repeat steps 2 and 3 until the user guesses the correct number
 
-import java.util.Scanner;
+import java.util.*;
 import java.util.Random;
   public class NumberGame{
      public static void main(String[] args){
@@ -112,7 +112,7 @@ The number was:35
 
 // 5. Limit the number of attempts the user has to guess the number.
 
-import java.util.Scanner;
+import java.util.*;
 import java.util.Random;
   public class NumberGame{
      public static void main(String[] args){
@@ -160,7 +160,7 @@ Attempts reach out:( the number was:56
 
 // 6.Add the option for multiple rounds, allowing the user to play again.
 
-import java.util.Scanner;
+import java.util.*;
 import java.util.Random;
   public class NumberGame{
      public static void main(String[] args){
@@ -230,7 +230,7 @@ Thanks for playing!
 
 //7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-import java.util.Scanner;
+import java.util.*;
 import java.util.Random;
   public class NumberGame{
      public static void main(String[] args){
