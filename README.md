@@ -15,6 +15,7 @@ This repo contains all the tasks, projects, and practice codes completed during 
 
 # Task 2:- STUDENT GRADE CALCULATOR
 @ Calculate total marks and average percentage.
+
 @ Assign grades and display results.
 
 # Task 3:- ATM INTERFACE
